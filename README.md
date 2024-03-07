@@ -1,2 +1,3 @@
-# meetups
-Notes from our meetups
+# Symfony User Group Zurich
+
+This repository holds the slides from our meetups.
