@@ -12,7 +12,7 @@ The finale will present how the root cause of spikes of http-500 errors in a pub
 API with 2M requests was found.
 
 * Presented by: [Emanuele Panzeri](https://phpc.social/@thepanz)
-* Slides: [symfony-elasticsearch-firefighiting-with-blackfire.pdf](./2024-03-04/symfony-elasticsearch-firefighiting-with-blackfire.pdf)
+* Slides: [symfony-elasticsearch-firefighiting-with-blackfire.pdf](./symfony-elasticsearch-firefighiting-with-blackfire.pdf)
 
 ##  Symfony Messenger Demo
 
